@@ -29,11 +29,11 @@ The Corda - Ultimate Code Assistant is a powerful, AI-driven application designe
 
 |                        Login Screen                         |                     Create Account Form                     |
 |:-----------------------------------------------------------:|:-----------------------------------------------------------:|
-|           ![Login Screen](Screenshot/Image1.png)            |   ![Create Account Form](Screenshot/Account Created.png)    |
+|           ![Login Screen](Screenshot/Image1.png)            |   ![Create Account Form](Screenshot/AccountCreated.png)    |
 |             **Main Code Generation Interface**              |               **Subscription Plan Selection**               |
-| ![Main Code Generation Interface](Screenshot/Logged In.png) | ![Subscription Plan Selection](Screenshot/Subscription.png) |
+| ![Main Code Generation Interface](Screenshot/LoggedIn.png) | ![Subscription Plan Selection](Screenshot/Subscription.png) |
 |         *Registration Success & Processing States*          |                  *Login Processing State*                   |
-|       ![Registration Success](Screenshot/SignUp.png)        |         ![Login Processing State](Screenshot/Login Processing.png)         |
+|       ![Registration Success](Screenshot/SignUp.png)        |         ![Login Processing State](Screenshot/LoginProcessing.png)         |
 
 
 ## 🛠️ Tech Stack
