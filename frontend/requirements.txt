@@ -1,0 +1,5 @@
+# frontend/requirements.txt
+customtkinter
+requests
+# Pillow (often a dependency for CustomTkinter images, good to have)
+Pillow

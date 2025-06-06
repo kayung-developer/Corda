@@ -1,0 +1,20 @@
+{
+    "theme": {
+        "primary_color": "#2FA4E7",
+        "secondary_color": "#1C1C1E",
+        "text_color": "#EAEAEA",
+        "button_color": "#2FA4E7",
+        "button_hover_color": "#2586C0",
+        "entry_background_color": "#2C2C2E",
+        "frame_background_color": "#1C1C1E",
+        "progress_bar_color": "#2FA4E7",
+        "accent_color": "#E91E63"
+    },
+    "font": {
+        "family": "Roboto",
+        "size_small": 10,
+        "size_medium": 12,
+        "size_large": 16
+    },
+    "corner_radius": 8
+}
